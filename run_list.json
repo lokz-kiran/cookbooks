@@ -1,0 +1,7 @@
+{
+
+
+"run_list":["recipe[cookbooks::file]","recipe[cookbooks::file2]","recipe[cookbooks::file3]"]
+
+
+}
